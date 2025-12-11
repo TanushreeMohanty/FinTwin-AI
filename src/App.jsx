@@ -278,7 +278,7 @@ export default function FinanceApp() {
         <div className="flex justify-between items-center mb-6 relative z-10">
           <div>
             <h1 className="text-2xl font-bold flex items-center gap-2">
-              <Wallet className="text-blue-400" /> SmartSpend
+              <Wallet className="text-blue-400" /> SmartSpend AI
             </h1>
           </div>
           
