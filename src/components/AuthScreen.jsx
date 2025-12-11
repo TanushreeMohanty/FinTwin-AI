@@ -6,7 +6,7 @@ const AuthScreen = ({ onGoogleLogin }) => (
     <div className="w-20 h-20 bg-blue-600 rounded-2xl flex items-center justify-center mb-6 shadow-blue-500/50 shadow-lg">
       <Wallet size={40} className="text-white" />
     </div>
-    <h1 className="text-3xl font-bold mb-2">FinTwin AI</h1>
+    <h1 className="text-3xl font-bold mb-2">SmartSpend</h1>
     <p className="text-slate-400 mb-8 max-w-xs">Your AI-powered financial pilot. Track expenses automatically.</p>
     
     <div className="w-full max-w-sm">
